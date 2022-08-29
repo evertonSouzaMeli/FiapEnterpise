@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{11CAEC6A-1AC4-4BD2-BB54-EE655664949B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FiapEnterprise FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FiapEnterprise/Models/ErrorViewModel.cs">
+    <Files>
+      <File FileName="FiapEnterprise/Models/User.cs" Line="6" Column="36" />
+      <File FileName="FiapEnterprise/Models/ErrorViewModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FiapEnterprise" expanded="True">
+            <Node name="FiapEnterprise" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
